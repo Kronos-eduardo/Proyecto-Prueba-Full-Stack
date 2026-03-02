@@ -233,8 +233,23 @@ SELECT * FROM registros_usuarios;
 3. **Puerto Backend:** 8889
 4. **Puerto Frontend:** 5173 (Vite)
 
+## 🤝 Contribuir
+
+1. Fork el proyecto
+2. Crea una rama (`git checkout -b feature/nueva-funcionalidad`)
+3. Commit tus cambios (`git commit -m 'Agregar nueva funcionalidad'`)
+4. Push a la rama (`git push origin feature/nueva-funcionalidad`)
+5. Abre un Pull Request
+
+## 📄 Licencia
+
+Este proyecto es parte de una prueba técnica.
+
 ## 👤 Autor
 
 **Eduardo García**
 
+---
+
+⭐ Si este proyecto te fue útil, dale una estrella en GitHub!
 

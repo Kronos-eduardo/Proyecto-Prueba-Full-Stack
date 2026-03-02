@@ -225,4 +225,5 @@ Este proyecto es parte de una prueba técnica.
 
 ---
 
+⭐ Si este proyecto te fue útil, dale una estrella en GitHub!
 

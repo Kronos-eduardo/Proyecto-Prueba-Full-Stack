@@ -23,32 +23,6 @@ Sistema completo de registro de usuarios con validaciones en backend y frontend.
 
 ## 📁 Estructura del Proyecto
 
-```
-PruebaTecnica/
-├── src/                          # Backend (Spring Boot)
-│   ├── main/
-│   │   ├── java/
-│   │   │   └── com/example/pruebatecnica/
-│   │   │       ├── controller/   # Controladores REST
-│   │   │       ├── dto/          # Data Transfer Objects
-│   │   │       ├── exception/    # Manejo de excepciones
-│   │   │       ├── model/        # Entidades JPA
-│   │   │       ├── repository/   # Repositorios
-│   │   │       ├── service/      # Lógica de negocio
-│   │   │       └── validator/    # Validaciones
-│   │   └── resources/
-│   │       └── application.properties
-│   └── test/
-└── fontPrueba/                   # Frontend (React + TypeScript)
-    ├── src/
-    │   ├── App.tsx              # Componente principal
-    │   ├── App.css
-    │   ├── main.tsx
-    │   └── assets/
-    ├── package.json
-    └── vite.config.ts
-```
-
 ## 🚀 Instalación y Ejecución
 
 ### Requisitos Previos

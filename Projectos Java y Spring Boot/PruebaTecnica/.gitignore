@@ -47,3 +47,11 @@ fontPrueba/.env
 fontPrueba/.env.local
 fontPrueba/.env.production
 
+### Archivos y carpetas extras (no del proyecto) ###
+am-ui-kiosk-v2/
+desktop.ini
+Project Kiosko Eaeromexico/
+am-ui-kiosk-v2
+Project*Kiosk*/
+*Kiosk*/
+
